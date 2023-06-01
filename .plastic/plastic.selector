@@ -1,0 +1,4 @@
+repository "AnimationUI_Demo@runningkuoluo@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
